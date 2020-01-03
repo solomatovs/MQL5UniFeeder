@@ -1,0 +1,59 @@
+{
+  "mapping": [
+    {
+      "name": ".EURUSDnosp",
+      "source": "EURUSDf",
+      "min": 0,
+      "max": 0
+    },
+    {
+      "name": ".GBPUSDnosp",
+      "source": "GBPUSDf",
+      "min": 0,
+      "max": 0
+    },
+    {
+      "name": ".AUDUSDnosp",
+      "source": "AUDUSDf",
+      "min": 0,
+      "max": 0
+    },
+    {
+      "name": ".NZDUSDnosp",
+      "source": "NZDUSDf",
+      "min": 0,
+      "max": 0
+    },
+    {
+      "name": ".USDJPYnosp",
+      "source": "USDJPYf",
+      "min": 0,
+      "max": 0
+    },
+    {
+      "name": "EURUSDf",
+      "source": "EURUSDf",
+      "percent": 10
+    },
+    {
+      "name": "GBPUSDf",
+      "source": "GBPUSDf",
+      "percent": 10
+    },
+    {
+      "name": "AUDUSDf",
+      "source": "AUDUSDf",
+      "percent": 10
+    },
+    {
+      "name": "NZDUSDf",
+      "source": "NZDUSDf",
+	  "percent": 10
+    },
+    {
+      "name": "USDJPYf",
+      "source": "USDJPYf",
+      "percent": 10
+    }
+  ]
+}
