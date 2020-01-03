@@ -1,59 +1,1110 @@
 {
-  "mapping": [
+  "Translates": [
     {
-      "name": ".EURUSDnosp",
-      "source": "EURUSDf",
-      "min": 0,
-      "max": 0
+      "Source": "AUDCAD",
+      "Symbol": "AUDCAD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
     },
     {
-      "name": ".GBPUSDnosp",
-      "source": "GBPUSDf",
-      "min": 0,
-      "max": 0
+      "Source": "AUDCAD",
+      "Symbol": "AUDCADf",
+      "BidMarkup": "-12",
+      "AskMarkup": "12",
+      "Digits": "5"
     },
     {
-      "name": ".AUDUSDnosp",
-      "source": "AUDUSDf",
-      "min": 0,
-      "max": 0
+      "Source": "AUDCAD",
+      "Symbol": "AUDCADp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
     },
     {
-      "name": ".NZDUSDnosp",
-      "source": "NZDUSDf",
-      "min": 0,
-      "max": 0
+      "Source": "AUDCHF",
+      "Symbol": "AUDCHF",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
     },
     {
-      "name": ".USDJPYnosp",
-      "source": "USDJPYf",
-      "min": 0,
-      "max": 0
+      "Source": "AUDCHF",
+      "Symbol": "AUDCHFf",
+      "BidMarkup": "-12",
+      "AskMarkup": "12",
+      "Digits": "5"
     },
     {
-      "name": "EURUSDf",
-      "source": "EURUSDf",
-      "percent": 10
+      "Source": "AUDCHF",
+      "Symbol": "AUDCHFp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
     },
     {
-      "name": "GBPUSDf",
-      "source": "GBPUSDf",
-      "percent": 10
+      "Source": "AUDJPY",
+      "Symbol": "AUDJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
     },
     {
-      "name": "AUDUSDf",
-      "source": "AUDUSDf",
-      "percent": 10
+      "Source": "AUDJPY",
+      "Symbol": "AUDJPYf",
+      "BidMarkup": "-5",
+      "AskMarkup": "5",
+      "Digits": "3"
     },
     {
-      "name": "NZDUSDf",
-      "source": "NZDUSDf",
-	  "percent": 10
+      "Source": "AUDJPY",
+      "Symbol": "AUDJPYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "3"
     },
     {
-      "name": "USDJPYf",
-      "source": "USDJPYf",
-      "percent": 10
+      "Source": "AUDSGD",
+      "Symbol": "AUDSGD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "0"
+    },
+    {
+      "Source": "AUDNZD",
+      "Symbol": "AUDNZD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "AUDNZD",
+      "Symbol": "AUDNZDf",
+      "BidMarkup": "-12",
+      "AskMarkup": "12",
+      "Digits": "5"
+    },
+    {
+      "Source": "AUDNZD",
+      "Symbol": "AUDNZDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "AUDUSD",
+      "Symbol": "AUDUSD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "AUDUSD",
+      "Symbol": "AUDUSDf",
+      "BidMarkup": "-12",
+      "AskMarkup": "12",
+      "Digits": "5"
+    },
+    {
+      "Source": "AUDUSD",
+      "Symbol": "AUDUSDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "CADCHF",
+      "Symbol": "CADCHF",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "CADCHF",
+      "Symbol": "CADCHFf",
+      "BidMarkup": "-5",
+      "AskMarkup": "5",
+      "Digits": "5"
+    },
+    {
+      "Source": "CADJPY",
+      "Symbol": "CADJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "CADJPY",
+      "Symbol": "CADJPYf",
+      "BidMarkup": "-6",
+      "AskMarkup": "6",
+      "Digits": "3"
+    },
+    {
+      "Source": "CADJPY",
+      "Symbol": "CADJPYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "3"
+    },
+    {
+      "Source": "CHFJPY",
+      "Symbol": "CHFJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "CHFJPY",
+      "Symbol": "CHFJPYf",
+      "BidMarkup": "-2",
+      "AskMarkup": "2",
+      "Digits": "3"
+    },
+    {
+      "Source": "CHFJPY",
+      "Symbol": "CHFJPYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "3"
+    },
+    {
+      "Source": "EURAUD",
+      "Symbol": "EURAUD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURAUD",
+      "Symbol": "EURAUDf",
+      "BidMarkup": "-10",
+      "AskMarkup": "10",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURAUD",
+      "Symbol": "EURAUDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURCAD",
+      "Symbol": "EURCAD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURCAD",
+      "Symbol": "EURCADf",
+      "BidMarkup": "-6",
+      "AskMarkup": "6",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURCAD",
+      "Symbol": "EURCADp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURCHF",
+      "Symbol": "EURCHF",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURCHF",
+      "Symbol": "EURCHFf",
+      "BidMarkup": "-4",
+      "AskMarkup": "4",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURCHF",
+      "Symbol": "EURCHFp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURCZK",
+      "Symbol": "EURCZKf",
+      "BidMarkup": "-240",
+      "AskMarkup": "240",
+      "Digits": "0"
+    },
+    {
+      "Source": "EURCZK",
+      "Symbol": "EURCZKp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "0"
+    },
+    {
+      "Source": "EURGBP",
+      "Symbol": "EURGBP",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURGBP",
+      "Symbol": "EURGBPf",
+      "BidMarkup": "-2",
+      "AskMarkup": "2",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURGBP",
+      "Symbol": "EURGBPp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURHKD",
+      "Symbol": "EURHKD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURHKD",
+      "Symbol": "EURHKDf",
+      "BidMarkup": "-300",
+      "AskMarkup": "300",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURHKD",
+      "Symbol": "EURHKDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURNOK",
+      "Symbol": "EURNOK",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURNOK",
+      "Symbol": "EURNOKf",
+      "BidMarkup": "-100",
+      "AskMarkup": "100",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURNOK",
+      "Symbol": "EURNOKp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURJPY",
+      "Symbol": "EURJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "EURJPY",
+      "Symbol": "EURJPYf",
+      "BidMarkup": "-9",
+      "AskMarkup": "9",
+      "Digits": "3"
+    },
+    {
+      "Source": "EURJPY",
+      "Symbol": "EURJPYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "3"
+    },
+    {
+      "Source": "EURNZD",
+      "Symbol": "EURNZD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURNZD",
+      "Symbol": "EURNZDf",
+      "BidMarkup": "-16",
+      "AskMarkup": "16",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURNZD",
+      "Symbol": "EURNZDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURSGD",
+      "Symbol": "EURSGDf",
+      "BidMarkup": "-50",
+      "AskMarkup": "50",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURTRY",
+      "Symbol": "EURTRY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURTRY",
+      "Symbol": "EURTRYf",
+      "BidMarkup": "-6440",
+      "AskMarkup": "6440",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURTRY",
+      "Symbol": "EURTRYp",
+      "BidMarkup": "-6440",
+      "AskMarkup": "6440",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURUSD",
+      "Symbol": "EURUSD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "EURUSD",
+      "Symbol": "EURUSDf",
+      "BidMarkup": "-4",
+      "AskMarkup": "4",
+      "Digits": "5"
+    },
+    {
+      "Source": "EURUSD",
+      "Symbol": "EURUSDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPAUD",
+      "Symbol": "GBPAUD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "GBPAUD",
+      "Symbol": "GBPAUDf",
+      "BidMarkup": "-5",
+      "AskMarkup": "5",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPAUD",
+      "Symbol": "GBPAUDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPCAD",
+      "Symbol": "GBPCAD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "GBPCAD",
+      "Symbol": "GBPCADf",
+      "BidMarkup": "-4",
+      "AskMarkup": "4",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPCAD",
+      "Symbol": "GBPCADp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPCHF",
+      "Symbol": "GBPCHF",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "GBPCHF",
+      "Symbol": "GBPCHFf",
+      "BidMarkup": "-4",
+      "AskMarkup": "4",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPCHF",
+      "Symbol": "GBPCHFp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPJPY",
+      "Symbol": "GBPJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "GBPJPY",
+      "Symbol": "GBPJPYf",
+      "BidMarkup": "-9",
+      "AskMarkup": "9",
+      "Digits": "3"
+    },
+    {
+      "Source": "GBPJPY",
+      "Symbol": "GBPJPYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "3"
+    },
+    {
+      "Source": "GBPNOK",
+      "Symbol": "GBPNOK",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "GBPNOK",
+      "Symbol": "GBPNOKf",
+      "BidMarkup": "-444",
+      "AskMarkup": "444",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPNOK",
+      "Symbol": "GBPNOKp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPNZD",
+      "Symbol": "GBPNZD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "GBPNZD",
+      "Symbol": "GBPNZDf",
+      "BidMarkup": "-20",
+      "AskMarkup": "20",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPNZD",
+      "Symbol": "GBPNZDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPSEK",
+      "Symbol": "GBPSEK",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "GBPSEK",
+      "Symbol": "GBPSEKf",
+      "BidMarkup": "-1800",
+      "AskMarkup": "1800",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPSEK",
+      "Symbol": "GBPSEKp",
+      "BidMarkup": "-1800",
+      "AskMarkup": "1800",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPSGD",
+      "Symbol": "GBPSGD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "0"
+    },
+    {
+      "Source": "NZDCAD",
+      "Symbol": "NZDCAD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "NZDCAD",
+      "Symbol": "NZDCADf",
+      "BidMarkup": "-20",
+      "AskMarkup": "20",
+      "Digits": "5"
+    },
+    {
+      "Source": "NZDCHF",
+      "Symbol": "NZDCHF",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "NZDCHF",
+      "Symbol": "NZDCHFf",
+      "BidMarkup": "-7",
+      "AskMarkup": "7",
+      "Digits": "5"
+    },
+    {
+      "Source": "NZDCHF",
+      "Symbol": "NZDCHFp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "NZDJPY",
+      "Symbol": "NZDJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "NZDJPY",
+      "Symbol": "NZDJPYf",
+      "BidMarkup": "-7",
+      "AskMarkup": "7",
+      "Digits": "3"
+    },
+    {
+      "Source": "NZDJPY",
+      "Symbol": "NZDJPYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "3"
+    },
+    {
+      "Source": "NZDUSD",
+      "Symbol": "NZDUSD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "NZDUSD",
+      "Symbol": "NZDUSDf",
+      "BidMarkup": "-14",
+      "AskMarkup": "14",
+      "Digits": "5"
+    },
+    {
+      "Source": "NZDUSD",
+      "Symbol": "NZDUSDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "SGDJPY",
+      "Symbol": "SGDJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "SGDJPY",
+      "Symbol": "SGDJPYf",
+      "BidMarkup": "-5",
+      "AskMarkup": "5",
+      "Digits": "3"
+    },
+    {
+      "Source": "USDCAD",
+      "Symbol": "USDCAD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDCAD",
+      "Symbol": "USDCADf",
+      "BidMarkup": "-8",
+      "AskMarkup": "8",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDCAD",
+      "Symbol": "USDCADp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDCHF",
+      "Symbol": "USDCHF",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDCHF",
+      "Symbol": "USDCHFf",
+      "BidMarkup": "-13",
+      "AskMarkup": "13",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDCHF",
+      "Symbol": "USDCHFp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDCNH",
+      "Symbol": "USDCNH",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDCNH",
+      "Symbol": "USDCNHf",
+      "BidMarkup": "-315",
+      "AskMarkup": "315",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDCNH",
+      "Symbol": "USDCNHp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDDKK",
+      "Symbol": "USDDKK",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDDKK",
+      "Symbol": "USDDKKf",
+      "BidMarkup": "-800",
+      "AskMarkup": "800",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDHKD",
+      "Symbol": "USDHKD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDHKD",
+      "Symbol": "USDHKDf",
+      "BidMarkup": "-150",
+      "AskMarkup": "150",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDHKD",
+      "Symbol": "USDHKDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDJPY",
+      "Symbol": "USDJPY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "USDJPY",
+      "Symbol": "USDJPYf",
+      "BidMarkup": "-7",
+      "AskMarkup": "7",
+      "Digits": "3"
+    },
+    {
+      "Source": "USDJPY",
+      "Symbol": "USDJPYp",
+      "BidMarkup": "-2",
+      "AskMarkup": "2",
+      "Digits": "3"
+    },
+    {
+      "Source": "USDMXN",
+      "Symbol": "USDMXN",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDMXN",
+      "Symbol": "USDMXNf",
+      "BidMarkup": "-11500",
+      "AskMarkup": "11500",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDMXN",
+      "Symbol": "USDMXNp",
+      "BidMarkup": "-11325",
+      "AskMarkup": "11325",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDNOK",
+      "Symbol": "USDNOK",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDNOK",
+      "Symbol": "USDNOKf",
+      "BidMarkup": "-800",
+      "AskMarkup": "800",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDNOK",
+      "Symbol": "USDNOKp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDRUB",
+      "Symbol": "USDRUR",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDRUB",
+      "Symbol": "USDRURp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDSEK",
+      "Symbol": "USDSEK",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDSEK",
+      "Symbol": "USDSEKf",
+      "BidMarkup": "-270",
+      "AskMarkup": "270",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDSEK",
+      "Symbol": "USDSEKp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDSGD",
+      "Symbol": "USDSGD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDSGD",
+      "Symbol": "USDSGDf",
+      "BidMarkup": "-17",
+      "AskMarkup": "17",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDSGD",
+      "Symbol": "USDSGDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDTRY",
+      "Symbol": "USDTRY",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": "USDTRY",
+      "Symbol": "USDTRYf",
+      "BidMarkup": "-6500",
+      "AskMarkup": "6500",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDTRY",
+      "Symbol": "USDTRYp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
+    },
+    {
+      "Source": "USDZAR",
+      "Symbol": "USDZAR",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "4"
+    },
+    {
+      "Source": ".AUS200Cash",
+      "Symbol": "#AUS200",
+      "BidMarkup": "-245",
+      "AskMarkup": "245",
+      "Digits": "1"
+    },
+    {
+      "Source": ".HKCash",
+      "Symbol": "#HSI50",
+      "BidMarkup": "-35",
+      "AskMarkup": "35",
+      "Digits": "1"
+    },
+    {
+      "Source": ".JAPANCash",
+      "Symbol": "#JAP225",
+      "BidMarkup": "-5",
+      "AskMarkup": "5",
+      "Digits": "1"
+    },
+    {
+      "Source": ".SPAINCash",
+      "Symbol": "#SPA35",
+      "BidMarkup": "-185",
+      "AskMarkup": "185",
+      "Digits": "1"
+    },
+    {
+      "Source": ".BrentCrude",
+      "Symbol": "#UKOIL",
+      "BidMarkup": "-54",
+      "AskMarkup": "-6",
+      "Digits": "0"
+    },
+    {
+      "Source": ".DE30Cash",
+      "Symbol": "#DAX30",
+      "BidMarkup": "-180",
+      "AskMarkup": "180",
+      "Digits": "1"
+    },
+    {
+      "Source": ".EURO50Cash",
+      "Symbol": "#STOXX50",
+      "BidMarkup": "-6",
+      "AskMarkup": "6",
+      "Digits": "1"
+    },
+    {
+      "Source": ".FRANCECash",
+      "Symbol": "#CAC40",
+      "BidMarkup": "-170",
+      "AskMarkup": "170",
+      "Digits": "1"
+    },
+    {
+      "Source": ".UK100Cash",
+      "Symbol": "#FTSE100",
+      "BidMarkup": "-150",
+      "AskMarkup": "150",
+      "Digits": "1"
+    },
+    {
+      "Source": ".US500Cash",
+      "Symbol": "#USA500",
+      "BidMarkup": "-21",
+      "AskMarkup": "21",
+      "Digits": "0"
+    },
+    {
+      "Source": ".USTECHCash",
+      "Symbol": "#USA100",
+      "BidMarkup": "-200",
+      "AskMarkup": "200",
+      "Digits": "0"
+    },
+    {
+      "Source": ".WTICrude",
+      "Symbol": "#USOIL",
+      "BidMarkup": "-43",
+      "AskMarkup": "-30",
+      "Digits": "0"
+    },
+    {
+      "Source": "XAUUSD",
+      "Symbol": "XAUUSD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "XAUUSD",
+      "Symbol": "XAUUSDf",
+      "BidMarkup": "-20",
+      "AskMarkup": "20",
+      "Digits": "2"
+    },
+    {
+      "Source": "XAUUSD",
+      "Symbol": "XAUUSDp",
+      "BidMarkup": "-10",
+      "AskMarkup": "-10",
+      "Digits": "2"
+    },
+    {
+      "Source": "XAGUSD",
+      "Symbol": "XAGUSD",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "2"
+    },
+    {
+      "Source": "XAGUSD",
+      "Symbol": "XAGUSDf",
+      "BidMarkup": "-15",
+      "AskMarkup": "25",
+      "Digits": "3"
+    },
+    {
+      "Source": "XAGUSD",
+      "Symbol": "XAGUSDp",
+      "BidMarkup": "-10",
+      "AskMarkup": "23",
+      "Digits": "3"
+    },
+    {
+      "Source": "BTCUSD",
+      "Symbol": "BTCUSD",
+      "BidMarkup": "-44695",
+      "AskMarkup": "44695",
+      "Digits": "3"
+    },
+    {
+      "Source": ".USTECHCash",
+      "Symbol": "#NQ100",
+      "BidMarkup": "-40",
+      "AskMarkup": "40",
+      "Digits": "1"
+    },
+    {
+      "Source": ".US500Cash",
+      "Symbol": "#SP500",
+      "BidMarkup": "-21",
+      "AskMarkup": "21",
+      "Digits": "1"
+    },
+    {
+      "Source": ".US30Cash",
+      "Symbol": "#DJI30",
+      "BidMarkup": "-30",
+      "AskMarkup": "30",
+      "Digits": "1"
+    },
+    {
+      "Source": ".BrentCrude",
+      "Symbol": "#BRENT",
+      "BidMarkup": "-46",
+      "AskMarkup": "-6",
+      "Digits": "2"
+    },
+    {
+      "Source": ".WTICrude",
+      "Symbol": "#WTI",
+      "BidMarkup": "-38",
+      "AskMarkup": "-25",
+      "Digits": "2"
+    },
+    {
+      "Source": "EURSGD",
+      "Symbol": "EURSGDp",
+      "BidMarkup": "-31",
+      "AskMarkup": "31",
+      "Digits": "5"
+    },
+    {
+      "Source": "SGDJPY",
+      "Symbol": "SGDJPYp",
+      "BidMarkup": "5",
+      "AskMarkup": "-5",
+      "Digits": "3"
+    },
+    {
+      "Source": "USDDKK",
+      "Symbol": "USDDKKp",
+      "BidMarkup": "-340",
+      "AskMarkup": "340",
+      "Digits": "5"
+    },
+    {
+      "Source": "NZDCAD",
+      "Symbol": "NZDCADp",
+      "BidMarkup": "-1",
+      "AskMarkup": "1",
+      "Digits": "5"
+    },
+    {
+      "Source": "CADCHF",
+      "Symbol": "CADCHFp",
+      "BidMarkup": "2",
+      "AskMarkup": "-3",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPUSD",
+      "Symbol": "GBPUSDf",
+      "BidMarkup": "-3",
+      "AskMarkup": "3",
+      "Digits": "5"
+    },
+    {
+      "Source": "GBPUSD",
+      "Symbol": "GBPUSDp",
+      "BidMarkup": "0",
+      "AskMarkup": "0",
+      "Digits": "5"
     }
   ]
 }
